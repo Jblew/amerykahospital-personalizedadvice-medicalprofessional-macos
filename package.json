@@ -1,0 +1,43 @@
+{
+  "name": "amerykahospital-personalizedadvice-medicalprofessional-macos",
+  "version": "0.0.0-development",
+  "description": "Mac OS build of MedicalProfessional app in AmerykaHospital Personalized patient advice system",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "amerykahospital-personalizedadvice-medicalprofessional-app": "^1.1.0",
+    "electron": "^6.0.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.0.4",
+    "css-loader": "^3.1.0",
+    "file-loader": "^4.1.0",
+    "html-webpack-plugin": "^3.2.0",
+    "jblew-tslint-config": "^0.1.0",
+    "ts-loader": "^6.0.4",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jblew/amerykahospital-personalizedadvice-medicalprofessional-macos.git"
+  },
+  "keywords": [
+    "macos",
+    "healthcare"
+  ],
+  "author": "Jędrzej Lewandowski <jedrzejblew@gmail.com> (https://jedrzej.lewandowski.doctor/)",
+  "contributors": [
+    "Jędrzej Lewandowski <jedrzejblew@gmail.com> (https://jedrzej.lewandowski.doctor/)"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Jblew/amerykahospital-personalizedadvice-medicalprofessional-macos/issues"
+  },
+  "homepage": "https://github.com/Jblew/amerykahospital-personalizedadvice-medicalprofessional-macos#readme"
+}
